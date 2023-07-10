@@ -15,6 +15,7 @@ I will explain each of these components in detail, so you can understand how the
   - [Summary](#summary)
   - [User Story](#users-story)
   - [As a Developer](#As-a-Developer)
+  - [Credits](#credits)
   - [Questions](#Questions)
   - [GitHub Repository](#github-repository)
 
@@ -25,6 +26,19 @@ I will explain each of these components in detail, so you can understand how the
 ## As a Developer
 
 - I have explained each of these components in detail, so you can understand how they contribute to the overall regex pattern. By the end of this tutorial, you will have a solid understanding of regular expressions and be able to use them effectively in your code.
+
+## Credits
+
+- [Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) and [JavaScript RegExp](https://www.w3schools.com/jsref/jsref_obj_regexp.asp)
+
+- [Video: Regular Expressions (Regex) in JavaScript - tutorial](https://www.youtube.com/watch?v=909NfO1St0A)
+
+- [Video: 2.1: Introduction to Regular Expressions - Programming with Text
+  ](https://www.youtube.com/watch?v=7DG3kCDx53c)
+
+- [Starter code](https://github.com/coding-boot-camp/bug-free-goggles)
+
+- [Request-Response: The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial)
 
 ## Questions
 
